@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T15:14:38.666Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.11" etag="aB5SCOzVGiGgQqnMCp_c" type="github"><diagram id="Emg9Gav0CzBD2bEPn3Is">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-07T15:16:57.449Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="rHsHlXx3GkEHH6d8CiRC" version="14.6.11" type="github">
+  <diagram id="Emg9Gav0CzBD2bEPn3Is" name="Page-1">
+    <mxGraphModel dx="1021" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1kUFVigSBLOog-KqJ-UK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="450" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="1kUFVigSBLOog-KqJ-UK-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="1kUFVigSBLOog-KqJ-UK-3" target="1kUFVigSBLOog-KqJ-UK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kUFVigSBLOog-KqJ-UK-3" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1kUFVigSBLOog-KqJ-UK-4" value="Đăng ký khoá học cho học viên" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="90" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1kUFVigSBLOog-KqJ-UK-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.238;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;endArrow=open;endFill=0;exitX=0.729;exitY=0.058;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="1kUFVigSBLOog-KqJ-UK-6" target="1kUFVigSBLOog-KqJ-UK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kUFVigSBLOog-KqJ-UK-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="344" y="260" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1kUFVigSBLOog-KqJ-UK-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="344" y="319.5000000000001" as="sourcePoint" />
+            <mxPoint x="484" y="319.5000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1kUFVigSBLOog-KqJ-UK-8" value="Đăng ký khoá học&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="370" y="280" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1kUFVigSBLOog-KqJ-UK-9" value="Extension Points&lt;br&gt;Thêm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="359" y="350" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1kUFVigSBLOog-KqJ-UK-10" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="500" y="150" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1kUFVigSBLOog-KqJ-UK-11" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="440" y="210" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1kUFVigSBLOog-KqJ-UK-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.406;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontSize=14;endArrow=open;endFill=0;" edge="1" parent="1" source="1kUFVigSBLOog-KqJ-UK-13" target="1kUFVigSBLOog-KqJ-UK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kUFVigSBLOog-KqJ-UK-13" value="Thêm" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="580" y="320" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1kUFVigSBLOog-KqJ-UK-20" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=15;" vertex="1" parent="1">
+          <mxGeometry x="510" y="300" width="60" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="1kUFVigSBLOog-KqJ-UK-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;dashed=1;fontSize=14;endArrow=open;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="329.89951027362304" y="406.0332952524145" as="sourcePoint" />
+            <mxPoint x="329.89951027362304" y="406.0332952524145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
