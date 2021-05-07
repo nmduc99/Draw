@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T12:43:45.272Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="QqjjaknKdzjkLZyBzGAh" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T13:39:56.891Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="l_IMy0xhDlyjk75_WPRq" version="14.6.10" type="github">
   <diagram id="l8URZNQdZMKxEkA0D439" name="Page-1">
-    <mxGraphModel dx="1240" dy="643" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="723" dy="375" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,14 +27,26 @@
         <mxCell id="cc5M_CpdDXAK6oT46AoD-79" value="Admin&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="33" y="561" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cc5M_CpdDXAK6oT46AoD-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;labelBackgroundColor=#ffffff;fontSize=18;endArrow=open;endFill=0;strokeColor=#000000;dashed=1;" edge="1" parent="1" source="cc5M_CpdDXAK6oT46AoD-80" target="cc5M_CpdDXAK6oT46AoD-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cc5M_CpdDXAK6oT46AoD-80" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="231" y="484" width="120" height="50" as="geometry" />
+          <mxGeometry x="231" y="484" width="120" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cc5M_CpdDXAK6oT46AoD-81" value="Quản lý học viên" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="238" y="616" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cc5M_CpdDXAK6oT46AoD-82" value="Quản lý khoá học" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="246" y="737" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cc5M_CpdDXAK6oT46AoD-84" value="Xác minh đăng nhập" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontSize=18;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="484" y="429" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cc5M_CpdDXAK6oT46AoD-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.988;entryY=0.621;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;dashed=1;labelBackgroundColor=#ffffff;fontSize=18;endArrow=open;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="cc5M_CpdDXAK6oT46AoD-86" target="cc5M_CpdDXAK6oT46AoD-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cc5M_CpdDXAK6oT46AoD-86" value="Hiển thị lỗi" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontSize=18;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="495" y="528" width="110" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
