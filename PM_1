@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-13T07:46:45.428Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="oEmTPpCK5PbrJjAd41NG" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-13T07:57:23.302Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="KxscsHetIetoXQAsxKRF" version="14.7.7" type="github">
   <diagram id="IH6yFod-NeIvFVe42e5M" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,11 +24,23 @@
             <mxPoint x="60" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UtLQK1TpHfa63Z_WRxuv-2" value="Bắt đầu dự án" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UtLQK1TpHfa63Z_WRxuv-2" value="Bắt đầu dự án&lt;br&gt;1.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UtLQK1TpHfa63Z_WRxuv-3" value="Bắt đầu dự án" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UtLQK1TpHfa63Z_WRxuv-3" value="Khảo sát yêu cầu&lt;br&gt;2.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UtLQK1TpHfa63Z_WRxuv-4" value="Phân tích yêu cầu&lt;br&gt;3.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UtLQK1TpHfa63Z_WRxuv-5" value="Thiết kế&lt;br&gt;4.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UtLQK1TpHfa63Z_WRxuv-6" value="Xây dựng chương trình&lt;br&gt;5.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UtLQK1TpHfa63Z_WRxuv-7" value="Khảo sát yêu cầu&lt;br&gt;2.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
