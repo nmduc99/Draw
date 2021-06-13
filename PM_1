@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-13T08:43:41.676Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="Q7xld5lixdCXXpiZfQDV" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-13T08:44:57.015Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="v5thZkhnoMUKBi4f37Vo" version="14.7.7" type="github">
   <diagram id="IH6yFod-NeIvFVe42e5M" name="Page-1">
     <mxGraphModel dx="1695" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -176,8 +176,8 @@
             <mxPoint x="370" y="479.6600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UtLQK1TpHfa63Z_WRxuv-44" value="Tổng kết các yêu cầu&lt;br&gt;2.2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="460" width="80" height="50" as="geometry" />
+        <mxCell id="UtLQK1TpHfa63Z_WRxuv-44" value="Phân tích chức năng của phần mềm&lt;br&gt;3.2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="460" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UtLQK1TpHfa63Z_WRxuv-45" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
