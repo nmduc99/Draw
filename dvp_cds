@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-27T08:49:53.246Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="pAiEjMmAqB8UxKS9qF68" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-27T08:59:00.678Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="45oaD1Xg8bAc-dCFyfOn" version="14.8.1" type="github">
   <diagram id="oA3Wkuych32OJocMftCa" name="Page-1">
     <mxGraphModel dx="834" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
             <mxPoint x="220" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ry8kk--RvixDnttPD1uM-7" value="Nhiệt độ phòng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ry8kk--RvixDnttPD1uM-7" value="Dịch vụ Internet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ry8kk--RvixDnttPD1uM-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
@@ -46,7 +46,7 @@
             <mxPoint x="370" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ry8kk--RvixDnttPD1uM-9" value="Nhiệt độ nước" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ry8kk--RvixDnttPD1uM-9" value="Các thiết bị hội nghị kĩ thuật số" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ry8kk--RvixDnttPD1uM-10" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
@@ -55,7 +55,7 @@
             <mxPoint x="510" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ry8kk--RvixDnttPD1uM-11" value="Rèm cửa và bóng râm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ry8kk--RvixDnttPD1uM-11" value="Giao tiếp di động và tự động hóa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ry8kk--RvixDnttPD1uM-12" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
