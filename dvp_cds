@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T00:09:03.137Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ToQO9OgCWgDe8gs3-j9x" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-02T02:04:54.004Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="sfniXYHYUummtBUseUii" version="14.8.2" type="github">
   <diagram id="oA3Wkuych32OJocMftCa" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="Ry8kk--RvixDnttPD1uM-3" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="240" as="sourcePoint" />
-            <mxPoint x="1070" y="240" as="targetPoint" />
+            <mxPoint x="960" y="240" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -83,22 +83,13 @@
             <mxPoint x="800" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ry8kk--RvixDnttPD1uM-17" value="Tích hợp thẻ khóa" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Ry8kk--RvixDnttPD1uM-19" value="Phòng sự kiện nâng cao" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ry8kk--RvixDnttPD1uM-20" value="" style="endArrow=none;html=1;" parent="1" target="Ry8kk--RvixDnttPD1uM-19" edge="1">
+        <mxCell id="Ry8kk--RvixDnttPD1uM-20" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1070" y="240" as="sourcePoint" />
-            <mxPoint x="1070" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ry8kk--RvixDnttPD1uM-21" value="" style="endArrow=none;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="939.5" y="240" as="sourcePoint" />
-            <mxPoint x="939.5" y="290" as="targetPoint" />
+            <mxPoint x="960" y="240" as="sourcePoint" />
+            <mxPoint x="960" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
