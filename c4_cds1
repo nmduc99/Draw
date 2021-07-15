@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T07:21:23.592Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="48HL5nkXX_u-66MGsCa1" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T07:25:23.545Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="4ahJ1JvAzxgBLV_4XT2u" version="14.8.6" type="github">
   <diagram id="U7aKObhbbA23jld3M4DS" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,6 +19,26 @@
             <mxPoint x="610" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PTFj7aK1G9CKmCqHMW18-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PTFj7aK1G9CKmCqHMW18-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PTFj7aK1G9CKmCqHMW18-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PTFj7aK1G9CKmCqHMW18-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PTFj7aK1G9CKmCqHMW18-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PTFj7aK1G9CKmCqHMW18-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PTFj7aK1G9CKmCqHMW18-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PTFj7aK1G9CKmCqHMW18-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PTFj7aK1G9CKmCqHMW18-1" value="Dịch vụ phòng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="220" width="120" height="80" as="geometry" />
         </mxCell>
@@ -30,6 +50,18 @@
         </mxCell>
         <mxCell id="PTFj7aK1G9CKmCqHMW18-8" value="Robot dọn phòng và phục vụ" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PTFj7aK1G9CKmCqHMW18-10" value="Trợ lí ảo&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PTFj7aK1G9CKmCqHMW18-12" value="Các thiết bị hội nghị kỹ thuật số" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PTFj7aK1G9CKmCqHMW18-14" value="Chìa khoá phòng thông minh" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PTFj7aK1G9CKmCqHMW18-18" value="Khách hàng thân thiết" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
