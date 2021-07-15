@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T08:13:31.470Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="gQaEuzGSgAGZ2THf9TFa" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T08:16:06.760Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="jkqSx2lwracZmI1dCHrW" version="14.8.6" type="github">
   <diagram id="5G3WVzfNFobMXZ4AybDK" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="D503rKkXuQ6CuAtpKDK2-6" value="Phòng sự kiện nâng cao và thiết bị hội nghị kỹ thuật số" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="230" width="130" height="90" as="geometry" />
+          <mxGeometry x="670" y="210" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="D503rKkXuQ6CuAtpKDK2-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.258;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="D503rKkXuQ6CuAtpKDK2-7" target="D503rKkXuQ6CuAtpKDK2-4">
           <mxGeometry relative="1" as="geometry">
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D503rKkXuQ6CuAtpKDK2-8" value="Chìa khoá phòng thông minh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="390" width="120" height="80" as="geometry" />
+          <mxGeometry x="610" y="390" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
