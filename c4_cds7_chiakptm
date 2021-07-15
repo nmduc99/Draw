@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T08:37:13.958Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.8.6" etag="QReLnkqlFbxAdCjZi0wX" type="github"><diagram id="c5dFu0NMn4i2b6bCVYH5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-15T08:39:39.412Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="qwRsKdzzFEGHsRwlMaUr" version="14.8.6" type="github">
+  <diagram id="c5dFu0NMn4i2b6bCVYH5" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SFVNyITrFol2OIJRHYIL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SFVNyITrFol2OIJRHYIL-1" target="SFVNyITrFol2OIJRHYIL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SFVNyITrFol2OIJRHYIL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SFVNyITrFol2OIJRHYIL-1" target="SFVNyITrFol2OIJRHYIL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SFVNyITrFol2OIJRHYIL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SFVNyITrFol2OIJRHYIL-1" target="SFVNyITrFol2OIJRHYIL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SFVNyITrFol2OIJRHYIL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SFVNyITrFol2OIJRHYIL-1" target="SFVNyITrFol2OIJRHYIL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SFVNyITrFol2OIJRHYIL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SFVNyITrFol2OIJRHYIL-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFVNyITrFol2OIJRHYIL-1" value="Chìa khoá phòng thông minh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SFVNyITrFol2OIJRHYIL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SFVNyITrFol2OIJRHYIL-2" target="SFVNyITrFol2OIJRHYIL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SFVNyITrFol2OIJRHYIL-2" value="Khách hàng" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SFVNyITrFol2OIJRHYIL-5" value="Thông qua ứng dụng" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SFVNyITrFol2OIJRHYIL-7" value="Nhận trả phòng" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SFVNyITrFol2OIJRHYIL-9" value="Tự phục vu" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SFVNyITrFol2OIJRHYIL-14" value="Đặt chỗ nhà hàng" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
